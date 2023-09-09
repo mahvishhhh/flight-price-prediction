@@ -1,4 +1,3 @@
 
 
-flight price prediction model
-
+Flight Price Prediction Model
