@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.head-bg{
+  background-color: #4b4f33;
+
+}
+
+.body-bg{
+    background-color: #e09132;
+}
+
+.mt-50
+{
+    margin-top : 50px;
+}
+
+.mt-10 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.py-3 {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.text-clr {
+    color: #ffefcd;
+}
+
+.head-style {
+    font-family: 'times new roman',sans-serif ;
+    font-size: 55px;
+    font-weight: 600;
+    color: #e09132;
+}
+
+.font-size {
+    font-family: 'times new roman',sans-serif ;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.col-sm-6 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  .container {
+    height: 100vh;
+    width: 100%;
+  }
+
+  .input {
+    padding: 0.5rem;
+    margin: 0.5rem 0;
+    color:#82703d;
+    font-size: large;
+    font-family: 'Times New Roman', sans-serif;
+    border: 0.5rem solid #82703d;
+    box-shadow: 0 0 20px 4px rgba(0, 0, 0, 0.06);
+    border-radius: 0.5rem;
+  }
+
+
+
+  .input-select-option {
+    width: 20rem;
+    padding: 0.5rem;
+    margin: 0.5rem 0;
+    color:#82703d;
+    font-size: large;
+    font-family: 'Times New Roman', sans-serif;
+    border: 1rem solid #82703d;
+    box-shadow: 0 0 30px 8px rgba(0, 0, 0, 0.06);
+    border-radius: 0.5rem;
+  }
+
+button {
+  background: none;
+  border: 3px double #ffefcd;
+  border-radius: 5px;
+  color: #82703d;
+  display: block;
+  font-family: 'times new roman',sans-serif ;
+  font-size: 1.8em;
+  font-weight: bold;
+  margin: 0.5rem auto;
+  padding: 2rem 3rem;
+  position: relative;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: all 0.5s;
+}
+
+button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+button:hover {
+    color: #4b4f33;
+  }
+ 
+  button:hover span {
+    padding-right: 25px;
+  }
+
+  button:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
+
+  .pred-text {
+    color: #ffefcd ;
+    font-family: 'times new roman',sans-serif;
+    font-size: 30px;
+    font-weight: 800;
+  }
+
+
+  .my-footer{
+    color: #ffefcd;
+    font-family: 'times new roman',sans-serif;
+    font-size: small;
+    font-weight: 500;
+  }
