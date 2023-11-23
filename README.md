@@ -1,6 +1,6 @@
 
 
-##**FLIGHT PRICE PREDICTION MODEL**
+## FLIGHT PRICE PREDICTION MODEL
 
 ## Overview
 This repository contains the code and resources for a Flight Price Prediction Model. The model, built using machine learning techniques, forecasts flight prices based on various input features. Additionally, a user-friendly web interface has been developed using Flask, CSS, and HTML, allowing users to input flight details and receive reliable price estimates.
