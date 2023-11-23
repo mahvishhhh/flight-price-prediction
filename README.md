@@ -11,7 +11,7 @@ This repository contains the code and resources for a Flight Price Prediction Mo
 - **Data Preprocessing:** The model handles diverse data preprocessing challenges, ensuring sturdy performance.
 - **Data Visualization:** The associated Power BI dashboard provides insightful visualizations for better understanding and analysis.
 
-![Dashboard](./Flight Price Analysis.png)
+![Dashboard]([./Flight Price Analysis.png](https://github.com/mahvishhhh/flight-price-prediction/blob/9b057677f7f3dc848d6ae069978ed5c921685b96/Flight%20Price%20Analysis.png)https://github.com/mahvishhhh/flight-price-prediction/blob/9b057677f7f3dc848d6ae069978ed5c921685b96/Flight%20Price%20Analysis.png)
 
 
 
